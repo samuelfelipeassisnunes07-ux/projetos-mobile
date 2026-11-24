@@ -32,3 +32,14 @@ Se o PowerShell disser que `node`, `npm` ou `npx` nao foram encontrados, instale
 - Filtro por posicao.
 - Menu lateral com navegacao entre Inicio, Servico, Perfil, Contato e Sair.
 - Modal para testar deep links como `pitangueira://servico`.
+
+## Estrutura
+
+| Caminho | Conteúdo |
+| --- | --- |
+| `App.js` | Tela principal, galeria e navegação. |
+| `components/` | Componentes compartilhados e telas em `paginas/`. |
+| `assets/` | Ícones e imagens do aplicativo. |
+| `assets/images/jogadores/` | Fotos locais usadas na galeria. |
+| `assets/images/perfis/` | Imagens de perfil incluídas no projeto. |
+| `index.js` e `app.json` | Entrada e configuração do Expo. |

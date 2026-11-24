@@ -83,7 +83,7 @@ export default function App() {
         {
             id: '4',
             nome: 'mbappe',
-            imagem: require('./img/mbappe.jpg'),
+            imagem: require('./assets/images/jogadores/mbappe.jpg'),
             nomeCompleto: 'Kylian Mbappe',
             posicao: 'Atacante',
             clube: 'Real Madrid',
@@ -113,7 +113,7 @@ export default function App() {
         {
             id: '6',
             nome: 'vinicius',
-            imagem: require('./img/vinicius-jr.jpg'),
+            imagem: require('./assets/images/jogadores/vinicius-jr.jpg'),
             nomeCompleto: 'Vinicius Jr',
             posicao: 'Ponta esquerda',
             clube: 'Real Madrid',
@@ -128,7 +128,7 @@ export default function App() {
         {
             id: '7',
             nome: 'bellingham',
-            imagem: require('./img/bellingham.jpg'),
+            imagem: require('./assets/images/jogadores/bellingham.jpg'),
             nomeCompleto: 'Jude Bellingham',
             posicao: 'Meio-campo',
             clube: 'Real Madrid',
@@ -143,7 +143,7 @@ export default function App() {
         {
             id: '8',
             nome: 'rodrygo',
-            imagem: require('./img/rodrygo.jpg'),
+            imagem: require('./assets/images/jogadores/rodrygo.jpg'),
             nomeCompleto: 'Rodrygo',
             posicao: 'Atacante',
             clube: 'Real Madrid',
@@ -158,7 +158,7 @@ export default function App() {
         {
             id: '9',
             nome: 'de bruyne',
-            imagem: require('./img/kevin-de-bruyne-biography.jpg'),
+            imagem: require('./assets/images/jogadores/kevin-de-bruyne-biography.jpg'),
             nomeCompleto: 'Kevin De Bruyne',
             posicao: 'Meio-campo',
             clube: 'Manchester City',
@@ -173,7 +173,7 @@ export default function App() {
         {
             id: '10',
             nome: 'salah',
-            imagem: require('./img/salah.jpg'),
+            imagem: require('./assets/images/jogadores/salah.jpg'),
             nomeCompleto: 'Mohamed Salah',
             posicao: 'Ponta direita',
             clube: 'Liverpool',
